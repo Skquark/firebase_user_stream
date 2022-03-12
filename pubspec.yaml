@@ -13,14 +13,14 @@ dependencies:
   flutter:
     sdk: flutter
 
-  firebase_auth: ^0.20.0
-  rxdart: ^0.24.1
+  firebase_auth: ^3.3.10
+  rxdart: ^0.27.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  mockito: ^4.1.1
+  mockito: ^5.1.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
